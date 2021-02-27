@@ -19,7 +19,7 @@ We have a nested object, we would like a function that you pass in the object an
 
  >  Given an object 
 ```json
-{“a”:{“b”:{“c”:”d”}}}
+{"a":{"b":{"c":"d"}}}
 ```
  > and the  key =
  `` a/b/c `` 
@@ -29,7 +29,7 @@ We have a nested object, we would like a function that you pass in the object an
  ```
  >  Given an object 
 ```json
-{“x”:{“y”:{“z”:”a”}}}
+{"x":{"y":{"z":"a"}}}
 ```
  > and the  key =
  `` x/y/z`` 
@@ -38,4 +38,5 @@ We have a nested object, we would like a function that you pass in the object an
  a
  ```
 
-> Given an  object = {“x”:{“y”:{“z”:”a”}}} and the key = x/y/z the function to return  a
+ Refer to  [get_in](https://hexdocs.pm/elixir/master/Kernel.html#get_in/2) function of Elixir for the implementation
+
