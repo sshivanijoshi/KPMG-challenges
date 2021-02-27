@@ -57,3 +57,11 @@ I am going to use Mocha javascript testing framework to do the unit testing
  - Space Complexity **O(1)**
  - Time Complexity **O(N)** where **N** is the depth of the tree.  
 
+
+ #Environment
+
+ - Clone the project
+ - Do 
+ >npm install
+ >npm test  
+
