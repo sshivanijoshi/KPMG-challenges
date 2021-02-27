@@ -61,7 +61,8 @@ I am going to use Mocha javascript testing framework to do the unit testing
  #Environment
 
  - Clone the project
- - Do 
+ - Install dependencies
  >npm install
+ - Test the project
  >npm test  
 
