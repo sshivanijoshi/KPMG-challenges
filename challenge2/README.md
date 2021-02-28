@@ -69,13 +69,14 @@ Install Python 3 and git on your instance
 
 Clone this repository
 
->git clone https://github.com/senthilkm/challenge2
+>git clone https://github.com/senthilkm/challenges
+
 
 Install pipenv
 
 >sudo pip3 install pipenv
 
-Open the repository on your instance
+Go to directory **challenge2**
 
 >cd challenge2
 
@@ -91,7 +92,7 @@ Install project dependancies
 
 Open the src folder
 
->cd chellenge2/src
+>cd challenges/challenge2/src
 
 Run whichever script you need:
 

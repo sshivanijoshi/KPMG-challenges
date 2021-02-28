@@ -17,8 +17,8 @@ def gen_dict_extract(key, var):
 
 
 def find_key(key):
-    metadata = metadata()
-    return list(gen_dict_extract(key, metadata))
+    md = metadata()
+    return list(gen_dict_extract(key, md))
 
 
 if __name__ == '__main__':

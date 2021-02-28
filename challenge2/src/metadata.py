@@ -27,18 +27,18 @@ def metadata():
 
 
 def metadata_json():
-    metadata = metadata()
-    metadata_json = json.dumps(metadata, indent=4, sort_keys=True)
+    md = metadata()
+    metadata_json = json.dumps(md, indent=4, sort_keys=True)
     return metadata_json
 
 
-def is_valid_json(json):
+def is_valid_json(value):
     try:
-        json.loads(json)
+        json.loads(value)
     except ValueError:
         return False
     return True
 
 
 if __name__ == '__main__':
-    print(get_metadata_json())
+    print(metadata_json())
