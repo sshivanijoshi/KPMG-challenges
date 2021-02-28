@@ -29,4 +29,5 @@ Shifting the security to the left, I will be desiging the infrastuture with one 
 
 # Options
 Terraform , I would be using the DSC IAC tool to define these modules and build the immutable infrastructure.
+## THE READ REPLICA IS NOT CREATED IN THIS SOURCE CODE
 
