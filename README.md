@@ -3,7 +3,7 @@
 This project consist of three challenges mostly on Cloud and programming. 
 
 
-# [Challenge 1](https://github.com/senthilkm/challenges/tree/main/challenge1):
+# [Challenge 1](https://github.com/senthilkm/challenges/tree/main/challenge1)
 
 A 3 tier environment is a common setup. Use a tool of your choosing/familiarity create these resources. Please remember we will not be judged on the outcome but more focusing on the approach, style and reproducibility.
 
@@ -38,5 +38,5 @@ We have a nested object, we would like a function that you pass in the object an
  a
  ```
 
- Refer to  [get_in](https://hexdocs.pm/elixir/master/Kernel.html#get_in/2) function of Elixir for the implementation
+ Refer to  [get_in](https://hexdocs.pm/elixir/master/Kernel.html#get_in/2) function of Elixir for the implementation.
 
