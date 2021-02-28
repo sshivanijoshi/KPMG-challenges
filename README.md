@@ -13,7 +13,7 @@ We need to write code that will query the **meta data** of an instance within **
 
 Refer to the documentation of the respective public cloud providers 
 
-# Challenge 3
+# [Challenge 3](https://github.com/senthilkm/challenges/tree/main/challenge3)
 
 We have a nested object, we would like a function that you pass in the object and a key and get back the value. How this is implemented is up to you. 
 
