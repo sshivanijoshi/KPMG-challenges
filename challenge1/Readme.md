@@ -10,7 +10,7 @@ A three-tier architecture is a software architecture pattern where the applicati
 
   
 
-Shifting the security to the left, I will be desiging the infrastuture with one VPC with 4 subnets with combination of private and public for various layers. In addition to that there will be a bastion host and a NAT gateway for the admins to have access to the infrastructure. I am also going to create a Auto scaling group across two availbality zones for fault tolerance and high availablity (Real SLA of 99.99%). Below is the proposed architecture in the intrest of time, I hjave borrowed it from this [link](https://medium.com/the-andela-way/designing-a-three-tier-architecture-in-aws-e5c24671f124)
+Shifting the security to the left, I will be desiging the infrastuture with one VPC with 4 subnets with combination of private and public for various layers. In addition to that there will be a bastion host and a NAT gateway for the admins to have access to the infrastructure. I am also going to create a Auto scaling group across two availbality zones for fault tolerance and high availablity (Real SLA of 99.99%). Below is the proposed architecture in the intrest of time, I have borrowed it from this [link](https://medium.com/the-andela-way/designing-a-three-tier-architecture-in-aws-e5c24671f124)
 
 ![](arch_proposed.jpeg)
 
