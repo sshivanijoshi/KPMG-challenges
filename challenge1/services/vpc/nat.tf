@@ -22,3 +22,4 @@ resource "aws_nat_gateway" "natgw" {
 output "output_igw" {
   value          = aws_internet_gateway.gw.id
 }
+
