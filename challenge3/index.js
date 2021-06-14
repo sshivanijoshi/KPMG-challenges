@@ -4,7 +4,7 @@ function getIn(object, keys) {
     if (!keys) {
         return object;
     }
-    if (keys.length == 1) {
+    if (keys.length == 1) { 
         return object[keys[0]];
     } // Non nested objects will be executed fast
     var current = object;
