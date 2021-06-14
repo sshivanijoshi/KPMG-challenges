@@ -125,11 +125,6 @@ Install Python 3 and git on your instance
 
   
 
-Clone this repository
-
-  
-
->git clone https://github.com/senthilkm/challenges
 
   
   
