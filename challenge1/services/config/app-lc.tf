@@ -1,4 +1,4 @@
-# AMI RHEL 8: ami-098bb5d92c8886ca1
+#    AMI RHEL 8: ami-098bb5d92c8886ca1
 resource "aws_launch_configuration" "app-lc" {
 
     name                       = "App_Launch_Config"
