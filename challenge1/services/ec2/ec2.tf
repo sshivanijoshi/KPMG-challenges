@@ -63,3 +63,6 @@ resource "aws_instance" "prv_sub_4_instance" {
 }
 
 
+
+
+
