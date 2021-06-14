@@ -1,7 +1,7 @@
 var assert = require('assert');
 var getIn = require('../index.js');
 
-console.log(getIn);
+console.log(getIn); 
 
 var object = {
     firstName: "John",
