@@ -27,7 +27,6 @@ output "outputpublicsubnet1" {
   value = aws_subnet.publicsubnet1.id
 }
 
-
 resource "aws_subnet" "publicsubnet2" {
     
     vpc_id            = aws_vpc.vpcdarwin.id
