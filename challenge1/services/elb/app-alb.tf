@@ -30,6 +30,7 @@ output "internaltg" {  # to register the instance in the ALB
 }
 
 
+
 resource "aws_lb_listener" "internal_listener_app" {
 
     load_balancer_arn = aws_lb.netlbapp.arn
