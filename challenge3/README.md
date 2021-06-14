@@ -6,7 +6,7 @@ We have a nested object, we would like a function that you pass in the object an
 
   
 
-> Given an object
+> Given an object 
 
 ```json
 
