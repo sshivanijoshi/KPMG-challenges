@@ -6,6 +6,7 @@ resource "aws_vpc" "vpcdarwin" {
     }
   
 }
+
 output "output_vpc_id" {
   value = aws_vpc.vpcdarwin.id
 }
