@@ -4,6 +4,7 @@ variable "vpc_cdir_block" {
   
 }
 
+
 variable "public_subnet_1" {
 
     default = "10.0.1.0/24"
