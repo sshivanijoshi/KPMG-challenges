@@ -9,6 +9,7 @@ resource "aws_autoscaling_group" "appasg" {
     vpc_zone_identifier  = ["var.private_subnet3","var.private_subnet4"]
     health_check_type    = "EC2"
     health_check_grace_period = 300
+    
 
 
   
