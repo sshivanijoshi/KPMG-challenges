@@ -11,5 +11,6 @@ resource "aws_autoscaling_group" "webasg" {
     health_check_grace_period = 300
 
 
+    
   
 }
